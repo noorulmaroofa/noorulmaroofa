@@ -4,7 +4,7 @@
   <img src="banner.png" alt="Noorul Maroofa Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi!, I'm Noorul Maroofa</h1>
+<h1 align="center">Welcome To My GitHub</h1>
 
 <h3 align="center">
 Data Analyst • Python • SQL • Power BI • AI & Data Science Student
@@ -25,22 +25,22 @@ Turning Data into Insights • Building End-to-End Analytics Solutions
 # About Me
 
 
-B.Tech Artificial Intelligence & Data Science Student
+- B.Tech Artificial Intelligence & Data Science Student
 
-Passionate about Data Analytics & Business Intelligence
+- Passionate about Data Analytics & Business Intelligence
 
-Skilled in Python, SQL, Power BI and Data Visualization
+- Skilled in Python, SQL, Power BI and Data Visualization
 
-Building end-to-end analytics pipelines from raw data to interactive dashboards
+- Building end-to-end analytics pipelines from raw data to interactive dashboards
 
-Exploring AI-powered analytics, automation and cloud technologies
+- Exploring AI-powered analytics, automation and cloud technologies.
 
 
 📍 Chennai, India
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 ## Programming
 
@@ -60,22 +60,14 @@ Exploring AI-powered analytics, automation and cloud technologies
 
 ## Data Analytics
 
-- Python
-- SQL Server
-- Power BI
-- DAX
-- Power Query
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-Learn
-- Microsoft Excel
+- Python   - SQL Server   - Power BI   - DAX   - Power Query
+- Pandas   - NumPy     - Matplotlib    - Streamlit   - Microsoft Excel
 
 ---
 
 
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
 
@@ -85,7 +77,7 @@ Exploring AI-powered analytics, automation and cloud technologies
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 
@@ -97,7 +89,7 @@ Exploring AI-powered analytics, automation and cloud technologies
 
 # 💼 Featured Projects
 
-## 📊 Amazon Sales Intelligence Dashboard
+## Amazon Sales Intelligence Dashboard
 
 End-to-End Business Intelligence Solution
 
@@ -119,7 +111,7 @@ End-to-End Business Intelligence Solution
 
 ---
 
-## 🛡 CyberScope AI-powered Analytics Platform
+## CyberScope AI-powered Analytics Platform
 
 AI-based Cybersecurity Analytics Dashboard
 
@@ -140,7 +132,7 @@ AI-based Cybersecurity Analytics Dashboard
 
 ---
 
-## 💼 LinkedIn Workforce Intelligence Dashboard
+## LinkedIn Workforce Intelligence Dashboard
 
 Job Market Analytics Platform
 
@@ -153,7 +145,7 @@ Job Market Analytics Platform
 
 ---
 
-## 🍔 Ultimate Fast Food Showdown
+## Ultimate Fast Food Showdown
 
 Business Intelligence Dashboard
 
@@ -178,7 +170,7 @@ Business Intelligence Dashboard
 
 
 
-# 🎯 Career Objective
+# Career Objective
 
 To build scalable data-driven solutions that help organizations make better business decisions through analytics, visualization, with interactive dashboards .
 

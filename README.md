@@ -73,17 +73,7 @@ Exploring AI-powered analytics, automation and cloud technologies
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=noorulmaroofa&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorulmaroofa&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -176,7 +166,7 @@ Business Intelligence Dashboard
 
 ---
 
-# 🏆 Certifications
+# Certifications
 
 - Google Analytics Certification
 - AWS Fundamentals
@@ -186,33 +176,11 @@ Business Intelligence Dashboard
 
 ---
 
-# 🌱 Currently Working On
 
-✅ CyberScope AI-powered Analytics Platform
-
-✅ Azure Fundamentals
-
-✅ Advanced SQL
-
-✅ Data Engineering
-
-✅ Machine Learning
-
----
-
-# 📚 Currently Learning
-
-- Data Warehousing
-- ETL Pipelines
-- Azure Data Factory
-- Cloud Analytics
-- AI for Business Intelligence
-
----
 
 # 🎯 Career Objective
 
-To build scalable data-driven solutions that help organizations make better business decisions through analytics, visualization, and artificial intelligence.
+To build scalable data-driven solutions that help organizations make better business decisions through analytics, visualization, with interactive dashboards .
 
 ---
 

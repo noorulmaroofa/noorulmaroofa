@@ -1,4 +1,20 @@
-## Hi there 👋
+# Banner
+
+# Introduction
+
+# About Me
+
+# Tech Stack
+
+# GitHub Statistics
+
+# Featured Projects
+
+# Certifications
+
+# Currently Learning
+
+# Connect With Me
 
 <!--
 **noorulmaroofa/noorulmaroofa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
